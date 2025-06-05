@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMapControlAzureMapsNetFramework", "DXMapControlAzureMapsNetFramework\DXMapControlAzureMapsNetFramework.csproj", "{A250D5B3-D7C4-420B-B9DA-AAD911EAD979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMapControlAzureMaps", "DXMapControlAzureMaps\DXMapControlAzureMaps.csproj", "{8F1C3A4B-BDF4-4C9F-DDDF-3448BD6051A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A250D5B3-D7C4-420B-B9DA-AAD911EAD979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A250D5B3-D7C4-420B-B9DA-AAD911EAD979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A250D5B3-D7C4-420B-B9DA-AAD911EAD979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A250D5B3-D7C4-420B-B9DA-AAD911EAD979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1C3A4B-BDF4-4C9F-DDDF-3448BD6051A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1C3A4B-BDF4-4C9F-DDDF-3448BD6051A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1C3A4B-BDF4-4C9F-DDDF-3448BD6051A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1C3A4B-BDF4-4C9F-DDDF-3448BD6051A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8CF8AF-0989-4F36-BE7A-393DD955CC08}
+	EndGlobalSection
+EndGlobal
